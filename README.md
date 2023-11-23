@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @barucsk full stack developer
-- 👀 I’m interested in new projects to learn new things
+- .NET
 
 <!---
 barucsk/barucsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
